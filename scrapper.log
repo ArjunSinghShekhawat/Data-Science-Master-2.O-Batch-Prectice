@@ -1,0 +1,75 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:49:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:49:56] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:49:56] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:50:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:50:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:50:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11pro', 'Name': 'kangba lovejoy pungding', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'I bought during the big billion sale. It’s worth every penny. First iOS user and overwhelmed. The photos are much better than my mirror less camera. If you got the budget, go for it..... Don’t think twice.'}, {'Product': 'iphone11pro', 'Name': 'Ravi Tripathi', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Superb...'}, {'Product': 'iphone11pro', 'Name': 'Amit Prakash', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Fast performance to previous iPhone xGood camera quality but the best part of night mode #killingI am already One-plus7Huge difference between in night mode                &iPhones 11 pro winsDisplay is also great in  #iPhone 11 proDisappointed —-You can’t be move your data android to iphone , Move to ios app not working in that case.iPhone change his USB type cable, You cant be charge your phone to power bank through this cable.... type c plug replaces USB plug'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Great'}, {'Product': 'iphone11pro', 'Name': 'Hitik Soni', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'very good phone no complains yetoutstanding camera the videos and pictures are very great'}, {'Product': 'iphone11pro', 'Name': 'Samarth tripathi', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good performance & camera'}, {'Product': 'iphone11pro', 'Name': 'shyam prakash', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good product. Happy to buy it.'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'iPhone always rock, thanks Flipkart for such a good offer ..!!? 7star phone'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Best apple phone I market \U0001f918\U0001f3fb'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}]
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:51:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:51:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:51:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:51:43] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:51:57] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'keyword', 'Name': 'Roshan Kumar', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Good products'}, {'Product': 'keyword', 'Name': 'Yatin .', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Pros-->Mouse:1. Very comfortable to hold2. Scroll wheel is easy to press and move. Keyboard:1. Key pressing sound is very minimal.2. It is stylish.Cons-->1. The keyboard does not have indicators for caps lock and number lock keys.2. The keyboard do not have an on/off switch.Conclusion:It is a great keyboard and justifies its price.'}, {'Product': 'keyword', 'Name': 'Manoj Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Nice'}, {'Product': 'keyword', 'Name': 'kamad Agnihotri', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'It just amazing you can go for it , it is way better than Logitech keyboard in the same price range.. Hardware and plastic Quality is also very good and the best thing is it comes with 3 years exchange warranty. One more thing which I noticed that it not produce very high sound while typing. most of the keyboard have this issue that they produce very high sound while typing. but it is not.'}, {'Product': 'keyword', 'Name': 'Jay Jadiya', 'Rating': '5', 'CommentHead': 'Highly Recommended', 'Comment': "I am a programmer and it's a pretty handy product for programming with a very smooth and hassle-free experience. The brand name itself defines the quality for many years. The money you spend is worth it for this product. Build Quality is good. Overall User experience is good. In this product, the main thing you will notice is that the key pressing noise of keyboard & mouse is mostly less than other brands keyboard and mouse. The keyboard and mouse are light in weight."}, {'Product': 'keyword', 'Name': 'RAMESH KUMAR POTNURU', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Awesome got the product at low price, thank u flipkart for delivering genuine products'}, {'Product': 'keyword', 'Name': 'DHC', 'Rating': '1', 'CommentHead': 'very very very bed product', 'Comment': "Caps lock indicator light not available on keyboard. mouse not working properly.. in product photo they are showing indicator light which is actually indicate battery level which is use less function .... I strongly  recommend every one to don't buy such useless product from dell."}, {'Product': 'keyword', 'Name': 'Sanjit Das', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Superb quality'}, {'Product': 'keyword', 'Name': 'Arun Balakrishnan', 'Rating': '1', 'CommentHead': 'Not recommended at all', 'Comment': 'Very disappointed with this purchase space bar is not working properly after a week of usage need to press hard . Hope Dell service center will solve the issue.'}, {'Product': 'keyword', 'Name': 'Shreemila Debbarma', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Wow \U0001f633\U0001f633'}, {'Product': 'keyword', 'Name': 'Shreemila Debbarma', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Wow \U0001f633\U0001f633'}]
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:52:10] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'keyword', 'Name': 'Roshan Kumar', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Good products'}, {'Product': 'keyword', 'Name': 'Yatin .', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Pros-->Mouse:1. Very comfortable to hold2. Scroll wheel is easy to press and move. Keyboard:1. Key pressing sound is very minimal.2. It is stylish.Cons-->1. The keyboard does not have indicators for caps lock and number lock keys.2. The keyboard do not have an on/off switch.Conclusion:It is a great keyboard and justifies its price.'}, {'Product': 'keyword', 'Name': 'Manoj Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Nice'}, {'Product': 'keyword', 'Name': 'kamad Agnihotri', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'It just amazing you can go for it , it is way better than Logitech keyboard in the same price range.. Hardware and plastic Quality is also very good and the best thing is it comes with 3 years exchange warranty. One more thing which I noticed that it not produce very high sound while typing. most of the keyboard have this issue that they produce very high sound while typing. but it is not.'}, {'Product': 'keyword', 'Name': 'Jay Jadiya', 'Rating': '5', 'CommentHead': 'Highly Recommended', 'Comment': "I am a programmer and it's a pretty handy product for programming with a very smooth and hassle-free experience. The brand name itself defines the quality for many years. The money you spend is worth it for this product. Build Quality is good. Overall User experience is good. In this product, the main thing you will notice is that the key pressing noise of keyboard & mouse is mostly less than other brands keyboard and mouse. The keyboard and mouse are light in weight."}, {'Product': 'keyword', 'Name': 'RAMESH KUMAR POTNURU', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Awesome got the product at low price, thank u flipkart for delivering genuine products'}, {'Product': 'keyword', 'Name': 'DHC', 'Rating': '1', 'CommentHead': 'very very very bed product', 'Comment': "Caps lock indicator light not available on keyboard. mouse not working properly.. in product photo they are showing indicator light which is actually indicate battery level which is use less function .... I strongly  recommend every one to don't buy such useless product from dell."}, {'Product': 'keyword', 'Name': 'Sanjit Das', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Superb quality'}, {'Product': 'keyword', 'Name': 'Arun Balakrishnan', 'Rating': '1', 'CommentHead': 'Not recommended at all', 'Comment': 'Very disappointed with this purchase space bar is not working properly after a week of usage need to press hard . Hope Dell service center will solve the issue.'}, {'Product': 'keyword', 'Name': 'Shreemila Debbarma', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Wow \U0001f633\U0001f633'}, {'Product': 'keyword', 'Name': 'Shreemila Debbarma', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Wow \U0001f633\U0001f633'}]
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:52:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:52:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:52:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'mouse', 'Name': 'Mohit Maurya', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This is amazing product. This is supported in mobile and pc .I am so happy buy the product.'}, {'Product': 'mouse', 'Name': 'HARISH CHAURASIYA', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good \U0001f44d'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Very cool \U0001f60eand very nice this itemTotal best product in budget'}, {'Product': 'mouse', 'Name': 'Tarique Ahmad', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Value for money\U0001f44d'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Nice'}, {'Product': 'mouse', 'Name': 'Girjesh Lodhi', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': "This is Awesom product and running it's smoothly.. I love it \u2764\ufe0f"}, {'Product': 'mouse', 'Name': 'Manas Das', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "Great product in this price, no ON-OFF switch but shifts to hibernate mode if you don't use for 5 minutes and gets back after single click. \U0001f44c"}, {'Product': 'mouse', 'Name': 'Subhadip Das', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Value for money . The quality of this product in this budget outstanding'}, {'Product': 'mouse', 'Name': 'Nipa Biswas', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Awsome product.'}, {'Product': 'mouse', 'Name': 'Ammanabrolu Somasekhar', 'Rating': '3', 'CommentHead': 'Good', 'Comment': 'The Mouse is budget friendly but it makes a lots of noise.If you can afford some more money then you should go for a better one. If you have a strong budget constraints then it is preferably good one. Overall working is good. It gives value for your money.'}, {'Product': 'mouse', 'Name': 'Ammanabrolu Somasekhar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'The Mouse is budget friendly but it makes a lots of noise.If you can afford some more money then you should go for a better one. If you have a strong budget constraints then it is preferably good one. Overall working is good. It gives value for your money.'}]
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:52:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:52:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 13:52:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.47:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m

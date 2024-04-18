@@ -1,0 +1,9 @@
+INFO:root:Log this line of execution
+INFO:root:Hello ji
+WARNING:root:Hello waring
+CRITICAL:root:Critical section
+INFO:root:Kesa hai bhai
+CRITICAL:root:Critical section
+INFO:root:Kesa hai bhai
+INFO:root:Info 1
+INFO:root:Info 1

@@ -1,0 +1,7 @@
+INFO:root:I am handle this error 'NoneType' object has no attribute 'a' 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /apple-iphone-11-pro-max-silver-512-gb/p/itmd4aeaf1585645?pid=MOBFKCTSGQWSAKDG&lid=LSTMOBFKCTSGQWSAKDGBKDFSB&marketplace=FLIPKART&q=iphone11pro&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=4024e515-6699-4b6b-b29b-044621c856d0.MOBFKCTSGQWSAKDG.SEARCH&ppt=None&ppn=None&ssid=mppzf676dc0000001712592088177&qH=8c67e3c01d95ccf5 HTTP/1.1" 200 None
+INFO:root:I am handle this type of error 'NoneType' object has no attribute 'div' 
+INFO:root:I am handle this type of problem 'NoneType' object has no attribute 'div' 
+INFO:root:I am handle this type of problem 'NoneType' object has no attribute 'div' 
+INFO:root:I am handle this type of problem 'NoneType' object has no attribute 'div' 
